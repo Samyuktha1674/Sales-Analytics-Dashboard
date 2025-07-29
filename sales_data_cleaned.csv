@@ -1,0 +1,7 @@
+sale_id,date,customer_id,product_id,product_name,location,quantity,price,total_amount
+1,2025-07-01,101,201,Laptop,Chennai,1,300,300
+2,2025-07-01,102,202,Smartphone,Delhi,1,150,150
+3,2025-07-02,103,201,Laptop,Chennai,1,300,300
+4,2025-07-03,104,203,Headphones,Hyderabad,2,200,400
+5,2025-07-03,105,202,Smartphone,Delhi,1,150,150
+6,2025-07-04,106,204,Charger,Mumbai,1,100,100
